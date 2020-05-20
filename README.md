@@ -1,17 +1,16 @@
-[![License: LGPL v3](https://img.shields.io/badge/License-LGPL%20v3-blue.svg)](https://www.gnu.org/licenses/lgpl-3.0) [![Build status](https://ci.appveyor.com/api/projects/status/bmxqnttwuh5iweuy/branch/master?svg=true)](https://ci.appveyor.com/api/projects/status/xml_toolkit/branch/master) [![Build Status](https://dev.azure.com/BHoMBot/BHoM/_apis/build/status/XML_Toolkit/XML_Toolkit.CheckCore?branchName=master)](https://dev.azure.com/BHoMBot/BHoM/_build/latest?definitionId=84&branchName=master)
+[![License: LGPL v3](https://img.shields.io/badge/License-LGPL%20v3-blue.svg)](https://www.gnu.org/licenses/lgpl-3.0) [![Build status](https://ci.appveyor.com/api/projects/status/lbxbm0bbdq1a9uay/branch/master?svg=true)](https://ci.appveyor.com/project/BHoMBot/relux-toolkit/branch/master) [![Build Status](https://dev.azure.com/BHoMBot/BHoM/_apis/build/status/Relux_Toolkit/Relux_Toolkit.CheckCore?branchName=master)](https://dev.azure.com/BHoMBot/BHoM/_build/latest?definitionId=225&branchName=master)
 
-# XML_Toolkit 
+# Relux_Toolkit 
 
-The XML_Toolkit allows interoperability between the BHoM and XML schemas. Enables creation, manipulation and reading of models via the XML_Adapter for a range of XML Schema.
+The Relux_Toolkit allows interoperability between the BHoM and Relux lighting software.
+
+[https://relux.com](https://relux.com)
 
 ### Known Versions of Software Supported
-- gbXML 6.0.01 - [Schema](https://www.gbxml.org/)
-- KML 2.2 - [Schema](http://schemas.opengis.net/kml/)
+- Relux 2020.1.5.0
 
 ### Documentation
-For more information about functionality see [the XML_Toolkit wiki](https://github.com/BHoM/XML_Toolkit/wiki)
 
----
 This toolkit is part of the Buildings and Habitats object Model. Find out more on our [wiki](https://github.com/BHoM/documentation/wiki) or at [https://bhom.xyz](https://bhom.xyz/)
 
 ## Quick Start 🚀 
